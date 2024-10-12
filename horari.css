@@ -1,0 +1,42 @@
+table {
+    border-collapse: collapse;
+    margin: auto;
+}
+th {
+    width: 100px;
+    background-color: blanchedalmond;
+    text-align: center;
+    font-weight: bold;
+    border: 1px solid black;
+}
+td {
+    border: 1px solid black
+}
+.LMSGI {
+    background-color: rgba(8, 218, 8, 0.468);
+}
+.PED {
+    background-color: rgba(8, 135, 214, 0.355);
+}
+.DIW {
+    background-color: rgba(128, 32, 0, 0.81);
+}
+.BD {
+    background-color: rgba(219, 219, 6, 0.833);
+}
+.TUT {
+    background-color: rgba(128, 0, 70, 0.468);
+}
+.AN {
+    background-color: rgb(76, 75, 81);
+}
+.SI {
+    background-color: rgba(254, 178, 1, 0.468);
+}
+.IPOI {
+    background-color: rgba(254, 1, 136, 0.468);
+}
+caption {
+    size: 25px;
+    color: yellowgreen;
+}
