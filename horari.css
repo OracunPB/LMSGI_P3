@@ -1,6 +1,8 @@
 table {
     border-collapse: collapse;
     margin: auto;
+    text-align: center;
+    font-family: Verdana;
 }
 th {
     width: 100px;
@@ -35,6 +37,16 @@ td {
 }
 .IPOI {
     background-color: rgba(254, 1, 136, 0.468);
+}
+.DESCANS {
+    size: 20px;
+    padding: 15px;
+    text-align: center;
+}
+.HORES {
+    size: 20px;
+    padding: 10px;
+    width: 180px;
 }
 caption {
     size: 25px;
